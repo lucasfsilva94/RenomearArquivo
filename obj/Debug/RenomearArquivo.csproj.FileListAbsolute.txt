@@ -1,0 +1,16 @@
+D:\Beto\Projetos\C#\Aprendendo\DragNDrop\RenomearArquivo\bin\Debug\RenomearArquivo.exe
+D:\Beto\Projetos\C#\Aprendendo\DragNDrop\RenomearArquivo\bin\Debug\RenomearArquivo.pdb
+D:\Beto\Projetos\C#\Aprendendo\DragNDrop\RenomearArquivo\obj\Debug\RenomearArquivo.csprojResolveAssemblyReference.cache
+D:\Beto\Projetos\C#\Aprendendo\DragNDrop\RenomearArquivo\obj\Debug\RenomearArquivo.frmPrincipal.resources
+D:\Beto\Projetos\C#\Aprendendo\DragNDrop\RenomearArquivo\obj\Debug\RenomearArquivo.Properties.Resources.resources
+D:\Beto\Projetos\C#\Aprendendo\DragNDrop\RenomearArquivo\obj\Debug\RenomearArquivo.csproj.GenerateResource.Cache
+D:\Beto\Projetos\C#\Aprendendo\DragNDrop\RenomearArquivo\obj\Debug\RenomearArquivo.exe
+D:\Beto\Projetos\C#\Aprendendo\DragNDrop\RenomearArquivo\obj\Debug\RenomearArquivo.pdb
+C:\Users\Lucas\Desktop\FGV\WindowsFormsApplication1\RenomearArquivo\obj\Debug\RenomearArquivo.exe
+C:\Users\Lucas\Desktop\FGV\WindowsFormsApplication1\RenomearArquivo\obj\Debug\RenomearArquivo.pdb
+C:\Users\Lucas\Desktop\FGV\WindowsFormsApplication1\RenomearArquivo\bin\Debug\RenomearArquivo.exe
+C:\Users\Lucas\Desktop\FGV\WindowsFormsApplication1\RenomearArquivo\bin\Debug\RenomearArquivo.pdb
+C:\Users\Lucas\Desktop\FGV\WindowsFormsApplication1\RenomearArquivo\obj\Debug\RenomearArquivo.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\FGV\WindowsFormsApplication1\RenomearArquivo\obj\Debug\RenomearArquivo.frmPrincipal.resources
+C:\Users\Lucas\Desktop\FGV\WindowsFormsApplication1\RenomearArquivo\obj\Debug\RenomearArquivo.Properties.Resources.resources
+C:\Users\Lucas\Desktop\FGV\WindowsFormsApplication1\RenomearArquivo\obj\Debug\RenomearArquivo.csproj.GenerateResource.Cache
