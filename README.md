@@ -12,7 +12,7 @@ Ao abrir o programa ele irá pedir para abrir um arquivo.
 Ao selecionar o arquivo e pressionar o OK ele vai redirecionar para uma outra tela, com as seguintes informações.
 
 - Informar a data.
-- O nome do arquivo.
+- Nome do arquivo.
 - Informar o local.
 - E o nome do responsável.
 
