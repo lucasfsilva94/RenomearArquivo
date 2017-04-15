@@ -4,7 +4,7 @@ O programa foi desenvolvido em <b> 2015 </b> e tem como função renomear o arqu
 
 O padrão do arquivo será: DATA_NOME DO ARQUIVO_LOCAL_FUNCIONÁRIO
 
-Exemplo: 01.02.15_TESTE_LUCAS.mp3
+Exemplo: 01.02.15_TESTE_SALÃO NOBRE_LUCAS.mp3
 
 Segue abaixo o fluxo do programa.
 
