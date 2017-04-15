@@ -2,7 +2,7 @@
 
 O programa foi desenvolvido em <b> 2015 </b> e tem como função renomear o arquivo para seguir um determinado padrão já estabelecido.
 
-O padrão do arquivo será: DATA_NOME DO ARQUIVO_FUNCIONÁRIO
+O padrão do arquivo será: DATA_NOME DO ARQUIVO_LOCAL_FUNCIONÁRIO
 
 Exemplo: 01.02.15_TESTE_LUCAS.mp3
 
